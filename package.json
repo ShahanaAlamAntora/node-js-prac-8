@@ -1,0 +1,16 @@
+{
+  "name": "health_management_website",
+  "version": "1.0.0",
+  "description": "It's health websites where different types os health tips where given to the users.",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize-cli": "^5.5.1",
+    "sequelize": "^5.21.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahana Alam Antora",
+  "license": "ISC"
+}
